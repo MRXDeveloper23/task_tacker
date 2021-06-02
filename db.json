@@ -11,6 +11,12 @@
       "text": "Go to dentist",
       "day": "March 1st at 16:00",
       "reminder": true
+    },
+    {
+      "text": "Go to home",
+      "day": "March 1st at 16:00",
+      "reminder": false,
+      "id": 22979465
     }
   ]
 }

@@ -14,7 +14,6 @@
 import Button from "./button";
 export default {
   name: "Header",
-  data() {},
   props: {
     title: String,
     showAddTask: Boolean,
